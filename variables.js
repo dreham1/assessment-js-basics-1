@@ -3,16 +3,19 @@
 
 //CODE HERE 
 var myName = "Deondre hambric";
+console.log('Deondre Hambric')
 //////////////////PROBLEM 2////////////////////
 /* Create a variable called 'faveNum' with a value that is your favorite number. */
 
 //CODE HERE
 var faveNum = 11; 
+console.log(faveNum = 11)
 //////////////////PROBLEM 3////////////////////
 /* Create a variable called 'lovesCode' and assign it a boolean value. */
 
 //CODE HERE
 var lovesCode = true
+console.log(lovesCode)
 //////////////////PROBLEM 4////////////////////
 /*
   Write an if-statement that checks if the faveNum variable is 
