@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-
+var gitDefinition = "git tracks and stores the work and progress you have made with your code"
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,7 +18,7 @@
 */
 
 //CODE HERE
-
+var gitHubDefinition = "git hub is a platform where you share the code you have worked on with your peers "
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,7 +26,7 @@
 */
 
 //CODE HERE
-
+var gitInitDefinition = 'git init initalizes the repository that you will be uploading too'
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,7 +34,7 @@
 */
 
 //CODE HERE
-
+var gitCloneDefinition = "used to target and exsiting repository and create a clone or copy"
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,7 +42,7 @@
 */
 
 //CODE HERE
-
+var gitStatusDefinition = 'used to get the staus of the git you have initialized and to see what changes have been staged'
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -53,7 +53,8 @@
 */
 
 //CODE HERE
-
+var gitAddDefinition = "Adds files to be tracked"
+var gitAddCode = "git add . <filesname> "
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -64,7 +65,8 @@
 */
 
 //CODE HERE
-
+var gitCommitDefinition = "Creates a snapshot of all files being tracked"
+var gitCommitCode = "git commit -m initial commit"
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +75,4 @@
 */
 
 //CODE HERE
+var gitPushDefinition = "git push, pushes your local or global repository to the remote repository specified by git remote add origin"
