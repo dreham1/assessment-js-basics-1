@@ -4,7 +4,8 @@
 const faveColors = ['red', 'green', 'black']
 
 //CODE HERE
-var colorCopy = faveColors.slice(0,2)
+var colorCopy = ['red', 'green', 'black']
+var colorCopy = colorCopy.slice(0,2)
 //////////////////PROBLEM 2////////////////////
 /* Add a fourth color to the end of the 'colorCopy' array using the push method. */
 
